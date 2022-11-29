@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nuxt3 & Microsoft azure
 - 💞️ I’m looking to collaborate on some vue projects
 - 📫 How to reach me abdelilaho2002@gmail.com
-# Tech I'm passionate about
+# 💻 Tech I'm passionate about
 <div style="display: flex; gap:5px">
 </a>
 <a href="https://prisma.io"><img
