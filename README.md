@@ -26,7 +26,9 @@
 <div>
 [![https://www.typescriptlang.org/](https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F377%2Fsquare_64%2Ftypescriptlang.png&w=64&q=100)](https://www.typescriptlang.org/)
 </div>
-
+</a>
+  <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="48" height="48" alt="Prisma" /></a>
+  <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="48" height="48" alt="PlanetScale" /></a>
 
 
 
