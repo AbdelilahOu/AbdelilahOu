@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Abdelilah
 - 👀 Mostly into webapps and desktop apps
-- 🌱 I’m currently learning nuxt3
+- 🌱 I’m currently learning nuxt3 & Microsoft azure
 - 💞️ I’m looking to collaborate on some vue projects
 - 📫 How to reach me abdelilaho2002@gmail.com
 # Tech I'm passionate about
