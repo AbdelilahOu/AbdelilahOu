@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on some vue projects
 - 📫 How to reach me abdelilaho2002@gmail.com
 # Tech I'm passionate about
-<div style="display: flex;">
+<div style="display: flex; gap:5px">
 </a>
 <a href="https://prisma.io"><img
-    src="https://www.prisma.io/images/favicon-32x32.png](https://egghead.io/_next/image?    url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F287%2Fsquare_64%2FprismaHD.png&w=64&q=100"
+    src="https://egghead.io/_next/image?    url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F287%2Fsquare_64%2FprismaHD.png&w=64&q=100"
     width="48" height="48" alt="Prisma" /></a>
 </a>
 <a href="https://nodejs.org/en/"><img
