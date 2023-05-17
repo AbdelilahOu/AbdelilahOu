@@ -22,7 +22,7 @@
 <a href="https://www.typescriptlang.org/"><img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F377%2Fsquare_64%2Ftypescriptlang.png&w=64&q=100" width="48" height="48" alt="TYPESCRIPT" /></a>
 <a href="https://trpc.io/"><img src="https://trpc.io/img/logo.svg" width="48" height="48" alt="TRPC" /></a>
 <a href="https://user-images.githubusercontent.com/739070/62526177-3fcb4700-b828-11e9-8c7a-4e31dbf65dc7.png" style="background:white;"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" width="48" height="48" alt="Rustlang" /></a>
-<a href="https://tauri.app/" style="background:white;"><img src="https://d33wubrfki0l68.cloudfront.net/4112b407ce93d899a0e499bbefa9fc172b11685e/49ffa/meta/tauri_logo_dark.svg" width="48" height="48" alt="Tauri" /></a>
+<a href="https://tauri.app/" style="background:white;"><img src="https://d33wubrfki0l68.cloudfront.net/4112b407ce93d899a0e499bbefa9fc172b11685e/49ffa/meta/tauri_logo_dark.svg" height="48" alt="Tauri" /></a>
 
     
 </div>
