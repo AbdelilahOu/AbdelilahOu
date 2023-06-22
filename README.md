@@ -5,7 +5,7 @@
 - 💪 Ready to embark on exciting challenges and take your projects to the next level, I'm here to inject some fun and excitement into the coding universe.
 - ⭐️ Join me on this thrilling coding journey! Explore my GitHub profile to witness the magic of Nuxt and Vue. Let's create something extraordinary together!
 
-# 💻 When it comes to technologies, I'm particularly impassioned about:
+# 💻 I'm impassioned about:
 <div style="display: flex; gap:5px">
 </a>
 <a href="https://prisma.io"><img
