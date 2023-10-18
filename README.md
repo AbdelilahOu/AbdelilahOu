@@ -11,7 +11,7 @@
     src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F038%2Fsquare_64%2Fnodejs.png&w=64&q=100"
     width="48" height="48" alt="Node" /></a>
 <a href="https://vuejs.org/"><img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F036%2Fsquare_64%2Fvue.png&w=64&q=100" width="48" height="48" alt="Vue" /></a>
-<a href="https://nuxt.com/"><img src="https://nuxt.com/assets/design-kit/logo/icon-green.png" width="48" height="48" alt="Nuxt" /></a>
+<a href="https://nuxt.com/"><img src="https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F054%2Fthumb%2Fnuxt.png" width="48" height="48" alt="Nuxt" /></a>
 <a href="https://tailwindcss.com/"><img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F215%2Fsquare_64%2Ftailwind-tag_2x.png&w=64&q=100" width="48" height="48" alt="tailwindcss" /></a>
 <a href="https://graphql.org/"><img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F034%2Fsquare_64%2Fgraphqllogo.png&w=128&q=100" width="48" height="48" alt="graphql" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://egghead.io/_next/image?url=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F000%2F377%2Fsquare_64%2Ftypescriptlang.png&w=64&q=100" width="48" height="48" alt="TYPESCRIPT" /></a>
