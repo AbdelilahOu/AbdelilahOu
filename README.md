@@ -1,10 +1,5 @@
 # 👋 Hi, I’m Abdelilah
-- 🚀 I'm a passionate code wizard who lives and breathes Nuxt and Vue magic! ✨ I specialize in crafting mind-blowing web experiences that make users go "Wow!"
-- 💻 As a mid-level developer, I bring a mix of expertise and enthusiasm to the table. I love collaborating with fellow wizards and creating powerful spells with code.
-- 🔥 With a thirst for knowledge and an insatiable curiosity, I'm always up-to-date with the latest tech trends. Geek mode: ON! 🤓
-- 💪 Ready to embark on exciting challenges and take your projects to the next level, I'm here to inject some fun and excitement into the coding universe.
-- ⭐️ Join me on this thrilling coding journey! Explore my GitHub profile to witness the magic of Nuxt and Vue. Let's create something extraordinary together!
-
+- contact me : abdelilah4dev@gmail
 # 💻 I'm impassioned about:
 <div style="display: flex; gap:5px">
 </a>
