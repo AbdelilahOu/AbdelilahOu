@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Abdelilah
-- contact me : abdelilah4dev@gmail
-# 💻 I'm impassioned about:
+# 💻 I'm passionate about:
 <div style="display: flex; gap:5px">
 </a>
 <a href="https://prisma.io"><img
