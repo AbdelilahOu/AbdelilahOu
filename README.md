@@ -1,2 +1,2 @@
 # Hi there 👋
-[Portfolio](https://portfolio.ar7al.workers.dev/)
+[Portfolio](https://ar7al.dev/)
